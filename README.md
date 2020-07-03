@@ -3,6 +3,6 @@ Falling Rocks is a simple game created with Python/Pygame. The objective of the 
 
 In order to run the game simply download and run the program. It is important to keep all the files in one folder.
 
-CREDITS:
-Images have heen downloaded from: iconarchive.com
-Sound effects have been downloaded from: freesound.org
+CREDITS: 
+Images have heen downloaded from: iconarchive.com 
+Sound effects have been downloaded from: freesound.org 
